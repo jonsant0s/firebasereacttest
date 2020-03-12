@@ -1,2 +1,0 @@
-# firebasereacttest
-Created with CodeSandbox
